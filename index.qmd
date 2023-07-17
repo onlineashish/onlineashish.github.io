@@ -1,0 +1,30 @@
+---
+title: Ashish sah
+image: files/ashish.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Ashishs36339577
+    - icon: github
+      text: Github
+      href: https://github.com/onlineaashish
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ashish-sah-1828b216a/
+    - icon: envelope
+      text: Email
+      href: sahashish@iitgn.ac.in
+        
+---
+
+
+Hi! I am Ashish Sah.As an enthusiastic learner, I am always eager to take up challenging tasks and push my limits to achieve excellence. My academic journey has give me a strong foundation in the concepts of computer science, and I have gained practical experience through various projects.Currently i am pursuing M.Tech from IIT Gandhinagar, Gujarat, India.
+
+
+
+
+

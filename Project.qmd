@@ -1,0 +1,14 @@
+---
+title: "Project"
+format: html
+---
+1.  M.tech 2021  
+    Topic: Prediction model for Parkinson's Disease  
+    Advisor: Dr. saiyed umer Assistant professor,Dept. of CSE,
+     Aliah University, Kolkata 700156.
+
+2.  B.Tech2019  
+    Topic: Design of Home Automation using IoT  
+    Advisor: Dr. Zeenat Rehena, Assistant professor,Dept.
+    of CSE, Aliah University, Kolkata 700156.
+
