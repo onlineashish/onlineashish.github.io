@@ -1,10 +1,10 @@
 ---
 title: Ashish sah
-image: files/ashish.jpg
+image: files/Ashish_pic.jpg
 about:
   template: trestles
-  image-width: 10em
-  image-shape: rounded
+  image-width: 15em
+  image-shape: round
   links:
     - icon: twitter
       text: Twitter
@@ -17,7 +17,7 @@ about:
       href: https://www.linkedin.com/in/ashish-sah-1828b216a/
     - icon: envelope
       text: Email
-      href: sahashish@iitgn.ac.in
+      href: mailto:sahashish@iitgn.ac.in
         
 ---
 
