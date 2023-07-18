@@ -3,29 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "Ashish sah"
+  title: "Ashish Sah"
   navbar:
     right:
       - href: index.qmd
-        text: Home
+        text: HOME
       - href: about.qmd
-        text: About
+        text: ABOUT
       - href: Project.qmd
-        text: Project
+        text: PROJECT
       - href: blogs.qmd
-        text: blogs
+        text: BLOGS
       - href: gallery.qmd
-        text: gallery
+        text: GALLERY
       - href: files/CV.pdf
         text: CV
 
 format:
   html:
     theme:
-      light: [litera, styles.scss]
       dark: [darkly, styles-dark.scss]
+      light: [litera, styles.scss] 
     highlight-style: a11y-dark
     mainfont: "Roboto"
+    monofont: "Roboto Mono"
     code-copy: true
     code-overflow: wrap
 
