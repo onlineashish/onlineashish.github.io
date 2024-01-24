@@ -12,10 +12,10 @@ website:
         text: ABOUT
       - href: Project.qmd
         text: PROJECT
-      - href: blogs.qmd
-        text: BLOGS
-      - href: gallery.qmd
-        text: GALLERY
+      # - href: blogs.qmd
+      #   text: BLOGS
+      # - href: gallery.qmd
+      #   text: GALLERY
       - href: files/CV.pdf
         text: CV
 
