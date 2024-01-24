@@ -5,7 +5,7 @@ format: html
 # Projects
 
 1.  TIK-TAE-TOE Game using JavaScript.
-    <a href= "onlineashish.github.io/tik-tak-toe">Click here to Play</a>
+    [Click here to Play](https://onlineashish.github.io/tik-tak-toe/)
 
 2.  [FaceFusion: EIgenfaces for face recognition](https://github.com/onlineashish/Facerecognization-%20from-scratch)
 <div class = "bullet">
