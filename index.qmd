@@ -11,7 +11,7 @@ about:
       href: https://twitter.com/Ashishs36339577
     - icon: github
       text: Github
-      href: https://github.com/onlineaashish
+      href: https://github.com/onlineashish
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/ashish-sah-1828b216a/
